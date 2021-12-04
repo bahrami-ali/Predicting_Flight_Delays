@@ -5,6 +5,13 @@ The goal is to predict arrival delays of commercial flights. Often, there isn't 
 
 **Contributors:** Ali Bahrami and Khaildyn Chan
 
+## Tools used
+
+1. **Data Extraction:** PostrgreSQL and Pandas
+2. **Data preprocessing:** Numpy, Pandas, Sci-kit Learn
+3. **Data visualization:** Matplotlib, Seaborn, Plotly, and Tableau
+4. **Supervised Machine Learning**: Sci-kit Learn's Linear Reg, Random Forest, and XGBoost
+
 ## Data
 
 We will be working with data from air travel industry. We will have four separate tables:
@@ -16,18 +23,12 @@ We will be working with data from air travel industry. We will have four separat
 
 The data was graciously provided by Lighthouse Labs for our Midterm Project.
 
-## Tools used
-
-1. **Data Extraction:** PostrgreSQL and Pandas
-2. **Data preprocessing:** Numpy, Pandas, Sci-kit Learn
-3. **Data visualization:** Matplotlib, Seaborn, Plotly, and Tableau
-4. **Supervised Machine Learning**: Sci-kit Learn's Linear Reg, Random Forest, and XGBoost
-
 
 ## File Directory
 
 1. **workbench**: Contains all the notebooks and datasets for the project
     - **data:** contains the raw, cleaned, and scaled data
+    - **img:** contains the plots for presentation
     - **notebooks:** 
         1. data extraction
         2. data preprocessing
