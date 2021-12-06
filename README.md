@@ -8,9 +8,9 @@ The goal is to predict arrival delays of commercial flights. Often, there isn't 
 ## Tools used
 
 1. **Data Extraction:** PostrgreSQL and Pandas
-2. **Data preprocessing:** Numpy, Pandas, Sci-kit Learn
+2. **Data preprocessing:** Numpy, Pandas, Scikit-learn
 3. **Data visualization:** Matplotlib, Seaborn, Plotly, and Tableau
-4. **Supervised Machine Learning**: Sci-kit Learn's Linear Reg, Random Forest, and XGBoost
+4. **Supervised Machine Learning**: Scikit-learn's Linear Reg, Random Forest, and XGBoost
 
 ## Data
 
